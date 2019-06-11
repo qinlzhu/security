@@ -1,0 +1,24 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qLzhu/security.git"
+  },
+  "keywords": [],
+  "author": "qinlzhu <qinlzhu@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qLzhu/security/issues"
+  },
+  "homepage": "https://github.com/qLzhu/security#readme",
+  "dependencies": {
+    "braces": "^1.8.5",
+    "fstream": "^1.0.11"
+  }
+}
