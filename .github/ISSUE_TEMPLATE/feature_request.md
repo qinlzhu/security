@@ -1,10 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: "[bug default]"
-labels: bug
+name: 功能要求
+about: 为这个项目提出一个想法
+title: "[默认标题]"
+labels: 标签
 assignees: ''
-
 ---
 
 **Is your feature request related to a problem? Please describe.**
